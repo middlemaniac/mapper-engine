@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- employee.xml -->
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="employee_schema.xsd">
+  <EmpID>101</EmpID>
+  <FirstName>Alice</FirstName>
+  <LastName>Smith</LastName>
+  <Department>Engineering</Department>
+  <Email>alice.smith@example.com</Email>
+  <Phone>+1-555-0101</Phone>
+  <Address>
+    <Street>456 Elm Street</Street>
+    <City>Metropolis</City>
+    <State>NY</State>
+    <ZipCode>10001</ZipCode>
+  </Address>
+</Employee>

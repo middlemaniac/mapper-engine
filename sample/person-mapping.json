@@ -1,0 +1,28 @@
+{
+  "mappings": [
+    {
+      "targetPath": "Employee.Address.City", "sourcePath": "person.contactInfo.location.city"
+    },
+    {
+      "targetPath": "Employee.Address.State", "sourcePath": "person.contactInfo.location.state"
+    },
+    {
+      "targetPath": "Employee.Address.ZipCode", "sourcePath": "person.contactInfo.location.postalCode"
+    },
+    {
+      "targetPath": "Employee.Address.Street", "sourcePath": "person.contactInfo.location.streetAddress"
+    },
+    {
+      "targetPath": "Employee.Email", "sourcePath": "person.contactInfo.email"
+    },
+    {
+      "targetPath": "Employee.EmpID", "sourcePath": "person.id"
+    },
+    {
+      "targetPath": "Employee.FirstName", "sourcePath": "person.fullName"
+    },
+    {
+      "targetPath": "Employee.Phone", "sourcePath": "person.contactInfo.phone"
+    }
+  ]
+}

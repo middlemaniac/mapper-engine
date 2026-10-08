@@ -1,0 +1,14 @@
+{
+    "id": 101,
+    "fullName": "Alice Smith",
+    "contactInfo": {
+        "email": "alice.smith@example.com",
+        "phone": "+1-555-0101",
+        "location": {
+        "streetAddress": "456 Elm Street",
+        "city": "Metropolis",
+        "state": "NY",
+        "postalCode": "10001"
+        }
+    }
+}
